@@ -1,6 +1,6 @@
 # About Video App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is stricly developed for recruitment purposes only. And still needs some work.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is stricly developed for recruitment purposes only. And still needs some work. See app working on https://youtu.be/RNiNdxPcQWA
 
 ## How to start
 
