@@ -1,0 +1,26 @@
+.movie-page{
+    display: grid;
+}
+
+.card-group {
+    display: grid;
+    grid-template-columns:  repeat(auto-fit, minmax(300px,1fr));
+}
+.card {
+    margin: 1rem;
+  background-color: aliceblue;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: rgb(23, 10, 67);
+
+}
+.card:hover {
+transform: translateY(-3%);
+transform: scale(1.08);
+transition-duration:200ms;
+}
+
+
+.button-container button{
+    margin: 10px;
+        
+    }
